@@ -5,7 +5,7 @@
 
 - 📫 Reach me [on LinkedIn](https://www.linkedin.com/in/anthony-loup/)
 
-- 📄 Know about my experiences and education on [loup.foo](loup.foo)
+- 📄 Know about my experiences and education on [loup.foo](https://loup.foo)
 
 <h3 align="left">Languages and Tools that I use (by order of importance):</h3>
 <p align="left">
